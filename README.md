@@ -1,3 +1,9 @@
+> **9base status: Historical Downstream.** Historical Downstream of [thekaplanlab/ConVarT_Web](https://github.com/thekaplanlab/ConVarT_Web). ConVarT is Kaplan Lab scientific software; historical 9base development added configuration, search/schema, development setup and UI changes. This downstream is no longer actively maintained. The inherited scientific overview remains below.
+>
+> Documentation reconstructed from repository history on 8 October 2026. See [9base provenance and patch notes](9BASE.md).
+
+---
+
 # ConVarT
 
 ![ConVarT](http://convart.org/files/img/convart_black.png)
